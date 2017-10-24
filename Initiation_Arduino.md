@@ -1,5 +1,6 @@
 #Arduino - initiation ados
 [TOC]
+
 ##Objectifs de la séquence
 - Connaître focntionnement de base d’un arduino et de ses composants principaux
 - Savoir être autonome dans l'apprentissage de l’Arduino
