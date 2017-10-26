@@ -51,7 +51,7 @@ Pour huit participants :
 
 ### Déballage et bases théoriques
 
-**20 mn ** - debout autour des tables et des ordinateurs
+**20 mn** - debout autour des tables et des ordinateurs
 
 **Découverte du matériel :** Déballez l'arduino et les différents capteurs sur la table. Demander aux participants s'ils connaissent la focntion des éléments déballés et en expliquer la fonction si nécessaire.
 Ce moment doit servir à expliciter le fonctionnement de base de l'arduino : des capteurs en entrée, et des sorties qui réagissent en fonction de conditions données dans le code. Donner un exemple simple du type "si le capteur à ultrason me détecte à moins de 50cm, alors le buzzer sonne".
