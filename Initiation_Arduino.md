@@ -64,6 +64,7 @@ Ce moment doit servir à expliciter le fonctionnement de base de l'arduino : des
  - Exemple 2 – Domotique | [le vélo espace](http://wiki.funlab.fr/index.php/V%C3%A9lo_Espace)
 
 **Les bases de l'électronique**
+
 En partant de la question "sauriez-vous expliquer comment allumer une LED ? Que se passe t-il lorsque la LED s'allume ?" : 
 - Laissez les participants répondre
 - Laissez les participants expérimenterleur réponse avec le matériel à disposition
