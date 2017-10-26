@@ -81,9 +81,11 @@ En partant de la question "sauriez-vous expliquer comment allumer une LED ? Que 
 **Lancez Lancement Snap4Arduino :** chacun lance le logiciel sur son ordinateur, en cas de problème pour trouver le bon port série, montrez leur comment trouver le bon port en s'aidant de l'IDE Arduino.
 
 **Mission 1 - Allumez une LED en direct**
+
 Montrez leur comment brancher la LED à Arduino "en direct" via la breadboard afin qu'ils comprennent les sorties 5V et GND. 
 
 **Mission 2 - Allumez une LED grâce à Arduino**
+
 Montre-leur comment passer par l'arduino pour allumer la LED en remplaçant l'entrée 5V direct par une des PIN digital de l'Arduino. L'objectif est qu'ils saisissent la fonction de l'Arduino et la manière dont envoyer un signal VRAI ou FAUX. 
 Laissez-les faire clignoter la LED manuellement en switchant entre VRAI et FAUX. 
 
