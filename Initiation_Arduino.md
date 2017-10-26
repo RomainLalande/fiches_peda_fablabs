@@ -39,7 +39,7 @@ Pour huit participants :
 
 ## Déroulé
 ### Lancement de la séquence
-**15mn** - debout en cercle*
+**15mn** - debout en cercle
  - **Présentation(s) :** l’intervenant.e.s se présente.nt (prénom, rôle, compétences techniques)
  - **Photo-langage :** une animation pour symboliser l’arrivée dans le groupe, permettre à chacun de ++partager l’état d’esprit dans lequel il arrive++ et de se présenter par un biais détourné. 
  **Exemple :** Disposez des images sur la table (un jeu de dixit par exemple) et demander aux participants d’en choisir une qui correspond à son état d’esprit du moment (peut être demandé pendant que les participants attendent le démmarage). Lorsque tout le monde a sa carte, s’installer debout en cercle et demander à chacun de donner son prénom et pourquoi il a choisis cette carte.
