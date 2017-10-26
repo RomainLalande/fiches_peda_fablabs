@@ -47,6 +47,7 @@ Pour huit participants :
  - **Déroulé de l’atelier :** proposer au groupe le déroulé imaginé pour la séquence, et les objectifs poursuivis. S’assurer que cela ne crée pas d’objection franche ou de frustration, adapter à la marge le programme pour lever ces objections si elles existent.
  - **Point logistique :** expliquer les règles minimales de sécurité, de condition d’usage des locaux et du matériel, indiquer les toilettes.
  - **Définir vos règles :** demander au groupe les règles nécessaires pour que la session se passe bien, en particulier dans les relations entre les personnes. Valider collectivement ces quelques règles simples.
+ 
 ![Dixit utilisé pour le photolanguage](http://wiki.funlab.fr/images/thumb/4/41/20171024_123208.jpg/800px-20171024_123208.jpg)
 
 ### Déballage et bases théoriques
@@ -55,6 +56,7 @@ Pour huit participants :
 
 **Découverte du matériel :** Déballez l'arduino et les différents capteurs sur la table. Demander aux participants s'ils connaissent la focntion des éléments déballés et en expliquer la fonction si nécessaire.
 Ce moment doit servir à expliciter le fonctionnement de base de l'arduino : des capteurs en entrée, et des sorties qui réagissent en fonction de conditions données dans le code. Donner un exemple simple du type "si le capteur à ultrason me détecte à moins de 50cm, alors le buzzer sonne".
+
 ![deballage](http://wiki.funlab.fr/images/thumb/d/de/Atelier_ados_deballe.jpg/337px-Atelier_ados_deballe.jpg)
 
 **Exemples de projets arduino** (montrer le fonctionnement en conditions réelles à travers deux exemples de projets simples) : 
