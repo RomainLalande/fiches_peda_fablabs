@@ -1,6 +1,8 @@
 # Arduino - initiation ados
 **Fiche placée sous licence CC by SA**
+
 **Contributeurs -** Grégoire Simonnet, Julien Rat, Romain Lalande
+
 **Test de la séquence :** FunLab - FabLab de Tours
 
 [TOC]
@@ -29,34 +31,27 @@ Pour huit participants :
 ![Installation](https://pbs.twimg.com/media/DLjO6UWUIAEwslf.jpg)
 
 1. **Installer Arduino IDE sur les ordinateurs** - Prévoir un ordinateur pour deux participants) [lien de téléchargement](https://www.arduino.cc/en/Main/Software#) 
-
 2. **Téleverser Firmata sur chaque Arduino** - Cela vous  permettra de faire fonctionner l’arduino via le logiciel Snap4Arduino. *Prévoir un Arduino pour deux participants : Lancez arduino IDE, connectez l’arduino à l'ordinateur, sélectionnez le fichier exemple Firmata (Fichier>Exemples>Firmata>StandardFirmata) puis téléversez le dans l’arduino.* 
-*
 **/!\ En cas de problème de téléversement** - Vérifiez que vous êtes sur le bon port série (Outils>Port Série>...) et que vous avez bien sélectionné la bonne carte Arduino (Outils>Type de carte>...).
-*
-3. **Installer Snap4Arduino** - Téléchargez le logiciel [sur le site officiel](http://snap4arduino.rocks/), installez-le puis lancez-le. Testez la connection à votre Arduino, dans la patie contenant les blocs Arduinos (bouton "connexion"). *
-/!\ **Ne vous trompez pas de port série**, sinon il est possible qu'il faille relancer le logiciel...
-*
+3. **Installer Snap4Arduino** - Téléchargez le logiciel [sur le site officiel](http://snap4arduino.rocks/), installez-le puis lancez-le. Testez la connection à votre Arduino, dans la patie contenant les blocs Arduinos (bouton "connexion"). /!\ **Ne vous trompez pas de port série**, sinon il est possible qu'il faille relancer le logiciel...
+
 
 
 ## Déroulé
 ### Lancement de la séquence
-*
 **15mn** - debout en cercle*
  - **Présentation(s) :** l’intervenant.e.s se présente.nt (prénom, rôle, compétences techniques)
- - **Photo-langage :** une animation pour symboliser l’arrivée dans le groupe, permettre à chacun de ++partager l’état d’esprit dans lequel il arrive++ et de se présenter par un biais détourné. *
+ - **Photo-langage :** une animation pour symboliser l’arrivée dans le groupe, permettre à chacun de ++partager l’état d’esprit dans lequel il arrive++ et de se présenter par un biais détourné. 
  **Exemple :** Disposez des images sur la table (un jeu de dixit par exemple) et demander aux participants d’en choisir une qui correspond à son état d’esprit du moment (peut être demandé pendant que les participants attendent le démmarage). Lorsque tout le monde a sa carte, s’installer debout en cercle et demander à chacun de donner son prénom et pourquoi il a choisis cette carte.
  [Découvrir d'autres formats d'ouverture](http://osons.cc/wakka.php?wiki=PageAnimation&facette=checkboxListeUsageAnim=8)
- *
  - **Déroulé de l’atelier :** proposer au groupe le déroulé imaginé pour la séquence, et les objectifs poursuivis. S’assurer que cela ne crée pas d’objection franche ou de frustration, adapter à la marge le programme pour lever ces objections si elles existent.
  - **Point logistique :** expliquer les règles minimales de sécurité, de condition d’usage des locaux et du matériel, indiquer les toilettes.
  - **Définir vos règles :** demander au groupe les règles nécessaires pour que la session se passe bien, en particulier dans les relations entre les personnes. Valider collectivement ces quelques règles simples.
-
 ![Dixit utilisé pour le photolanguage](http://wiki.funlab.fr/images/thumb/4/41/20171024_123208.jpg/800px-20171024_123208.jpg)
 
 ### Déballage et bases théoriques
-*
-**20 mn **- debout autour des tables et des ordinateurs*
+
+**20 mn **- debout autour des tables et des ordinateurs
 
 **Découverte du matériel :** Déballez l'arduino et les différents capteurs sur la table. Demander aux participants s'ils connaissent la focntion des éléments déballés et en expliquer la fonction si nécessaire.
 Ce moment doit servir à expliciter le fonctionnement de base de l'arduino : des capteurs en entrée, et des sorties qui réagissent en fonction de conditions données dans le code. Donner un exemple simple du type "si le capteur à ultrason me détecte à moins de 50cm, alors le buzzer sonne".
@@ -75,10 +70,9 @@ En partant de la question "sauriez-vous expliquer comment allumer une LED ? Que 
 
 
 ### Découverte de l'Arduino
-*
+
 **5mn** - En binome sur l'ordinateur*
 
-*
 **/!\ Les solutions proposées avec les impressions d'écranci-dessous sont des exemples, mais il existe plein d'autres manières de parvenir au résultat, laissez chacun trouver sa méthode !***
 
 **Lancez Lancement Snap4Arduino :** chacun lance le logiciel sur son ordinateur, en cas de problème pour trouver le bon port série, montrez leur comment trouver le bon port en s'aidant de l'IDE Arduino.
@@ -131,9 +125,8 @@ Vous pouvez également demander ici de faire clignoter une LED/ bipper un buzzer
 
 
 ### PAUSE
-*
+
 **20mn** Autour du baby foot !
-*
 
 Une pause.
 Pour se reposer.
