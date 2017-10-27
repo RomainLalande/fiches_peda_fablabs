@@ -1,11 +1,11 @@
 # Arduino - initiation ados
-**Fiche placée sous licence CC by SA**
+**Contenus de la fiche placés sous licence CC by SA**
 
 **Contributeurs -** Grégoire Simonnet, Julien Rat, Romain Lalande
 
 **Test de la séquence :** FunLab - FabLab de Tours
 
-**Illustrations et images:** Licence CC0
+**Illustrations, images et photos:** Licence CC0
 
 [TOC]
 ## Objectifs de la séquence
