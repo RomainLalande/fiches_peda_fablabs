@@ -5,6 +5,8 @@
 
 **Test de la séquence :** FunLab - FabLab de Tours
 
+**Illustrations et images:** Licence CC0
+
 [TOC]
 ## Objectifs de la séquence
 - Connaître focntionnement de base d’un arduino et de ses composants principaux
@@ -28,8 +30,6 @@ Pour huit participants :
 - Matériel de petit bricolage : ciseaux, cutter, colle chaude, petits boulons,...
 
 ## Préparation de la séquence
-![Installation](https://pbs.twimg.com/media/DLjO6UWUIAEwslf.jpg)
-
 1. **Installer Arduino IDE sur les ordinateurs** - Prévoir un ordinateur pour deux participants) [lien de téléchargement](https://www.arduino.cc/en/Main/Software#) 
 2. **Téleverser Firmata sur chaque Arduino** - Cela vous  permettra de faire fonctionner l’arduino via le logiciel Snap4Arduino. *Prévoir un Arduino pour deux participants : Lancez arduino IDE, connectez l’arduino à l'ordinateur, sélectionnez le fichier exemple Firmata (Fichier>Exemples>Firmata>StandardFirmata) puis téléversez le dans l’arduino.* 
 **/!\ En cas de problème de téléversement** - Vérifiez que vous êtes sur le bon port série (Outils>Port Série>...) et que vous avez bien sélectionné la bonne carte Arduino (Outils>Type de carte>...).
