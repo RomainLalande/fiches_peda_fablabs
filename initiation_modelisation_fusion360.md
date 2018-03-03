@@ -8,8 +8,11 @@ A travers la modélisation d'une table, les objectifs de cette séquence sont :
 
 ## Modalités d'organisation
 **Taille du groupe :** 2 à 4 personnes par animateur
+
 **Durée :** 3h
+
 **Public :** Personnes souhaitant découvrir la modélisation 3D pour la premeière fois.
+
 **Matériel nécessaire :**
  - Nécessaire de convivialité (café, grignottes),
  - Un ordinateur disposant de Fusion 360 par participants)
