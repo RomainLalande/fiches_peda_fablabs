@@ -78,7 +78,7 @@ Expliquer le principe de comment on va fonctionner :
  - déplacement de la vue caméra
  - Le résultat final de la table qu'on va réaliser.
 
-**Consigne 1 (les participants répondent à la consigne): **[Martin] 
+**Consigne 1 (les participants répondent à la consigne):** [Martin] 
  - "Créez une table avec les fonctions présentées et respectant les dimensions données"
  - Dessiner le schéma de la table au tableau : 
   - quatre pieds carrés : 100 cm de haut, 10x10cm
@@ -90,7 +90,7 @@ Expliquer le principe de comment on va fonctionner :
  - Montrer le déplacement point to point avec copie
  - La ligne de vie du projet (modifier l'extrusion pour le quatre pieds - edite feature)
 
-**Consigne 2 (les participants répondent à la consigne): **[Romain]
+**Consigne 2 (les participants répondent à la consigne):**[Romain]
  - "Reproduire les quatre pieds par déplacement copie, puis modifier la taille des quatre en un coup"
 
 
@@ -103,13 +103,13 @@ Expliquer le principe de comment on va fonctionner :
  	- La méthode 1 : ajouter une contrainte pied par pied à 15 cm des bords
     - La méthode 2 : faire un rectangle en traits de construction avec Offset et en créant les ronds à ses angles.
  
-**Consigne 3 (les participants répondent à la consigne): **
+**Consigne 3 (les participants répondent à la consigne):**
  - "Créer une table avec des pieds ronds en utilisant les contraintes pour mettre automatiquemnt les pieds à 15 cm du bord.
 
 **Démonstration 4 (les participants sont spectateurs) :**[Martin] Montrer : 
  - Survoler les option de la section "modify" pour rendre notre modèle plus joli
 
-**Consigne 4 (les participants répondent à la consigne): ** [Martin]
+**Consigne 4 (les participants répondent à la consigne):** [Martin]
  - "Amusez-vous à rendre votre table la plus belle possible" 
 
 **Démonstration 5 (les participants sont spectateurs) :**
