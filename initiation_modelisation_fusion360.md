@@ -60,7 +60,7 @@ Expliquer le principe de comment on va fonctionner :
  - La séquence commencera par une heure "d'informations déscendantes"
  - Elle se poursuivra par deux heures d'explorations libres avec le support des animateurs
 
-**Tour du propriétaire : **  [Martin]
+**Tour du propriétaire :**  [Martin]
  - on survole les différents ateliers (Model, patch, ...).
  - Pour chaque fonction on a un atelier différent
  - Nous allons voir l'atelier model et render
