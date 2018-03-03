@@ -1,5 +1,5 @@
 # Initiation modélisation 3D - Fusion 360
-##Objectifs
+## Objectifs
 A travers la modélisation d'une table, les objectifs de cette séquence sont :
  - Connaître les étapes de la modélisation paramétrique (sketch, body, opérations, rendus )
  - Savoir réaliser des formes simples à l'aide de Fusion 360
@@ -117,7 +117,7 @@ Il s'agit de montrer une troisième méthode de création possible pour parvenir
  - Extruder vers l'intérieur (avec cut)
 
 
-#PAUSE 
+# PAUSE 
 
 
 
